@@ -12,7 +12,9 @@ Our paper [Homography-Based Loss Function for Camera Pose Regression](https://ar
 *<p align="center">Convergence of our proposed Homography loss</p>*  
 We show other losses convergence
 [on our YouTube channel](https://youtube.com/playlist?list=PLe92vnufKoYIIHrW5I268RYdX6aV4gTa6). 
-
+## Modification Made by Us
+![AtLoc Architecture](asets/atloc_architecture.png)
+We have changed the MobilenetV2 network architecture used in original Homogaphy Based Loss Function. Now we are using the network architecture from [AtLoc: Attention Guided Camera Localization](https://arxiv.org/pdf/1909.03557.pdf).  
 ## Installation
 
 ### COLMAP dependancy
